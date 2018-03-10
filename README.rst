@@ -22,6 +22,23 @@ kudoSudoku
 
 A sudoku solver that solves sudoku using constraint programming
 
+Installation
+============
+
+Installation through pip:
+
+.. code-block:: shell
+
+    pip install kudosudoku
+
+Installation through cloning:
+
+.. code-block:: shell
+
+    git clone https://github.com/VarshneyaB/kudoSudoku.git
+    cd kudoSudoku
+    python setup.py install
+
 
 Usage
 =====
